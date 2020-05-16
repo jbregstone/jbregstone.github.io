@@ -21,7 +21,7 @@
 title: Whimsical Abstractions
 email: jbregst2@oberlin.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The following pieces were made with data collected in the basement Physics Lab at Oberlin College. The data was manipulated using Python.
+  The following experiments in data visualization were made with data collected in the Physics Lab at Oberlin College. Each piece corresponds to a lab experiment performed for Physics 414. The data was manipulated using Python.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
