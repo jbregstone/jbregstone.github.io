@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Whimsical Abstractions
+title: Aesthetic Abstractions of Physical Data
 email: jbregst2@oberlin.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The following experiments in data visualization were made with data collected in the Physics Lab at Oberlin College. Each piece corresponds to a lab experiment performed for Physics 414. The data was manipulated using Python.
