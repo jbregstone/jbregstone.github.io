@@ -13,7 +13,7 @@ The chemical compound yttrium barium copper oxide, shortened to YBCO, was the fi
 This image is created directly from a NumPy array. The pattern that emerges is from our sample superconducting. The resistance of our YBCO sample drops to near zero as it transitions to its superconducting phase. The data is not only represented in the x,y dimensions but also in the RGB space.
 * * *
 # Linear perspective and Johnson Noise
-In 1926, John Johnson discovered that resistors have an inherent low level of noise whose power is proportional to temperature. Nyquist who worked in the same labs as Johnson developed the theory behind the observed noise. Nyquist theorized that small thermal agitations were behind the observed electronic noise and derived equations that describe the noise. The data was collected using spectrum analyzer. The following gifs were created with Python and Postscript. The central visual effect is the tethering each line of data to a single point to bring a form of perspective. 
+In 1926, John Johnson discovered that resistors have an inherent low level of noise whose power is proportional to temperature. Nyquist who worked in the same labs as Johnson developed the theory behind the observed noise. Nyquist theorized that small thermal agitations were behind the observed electronic noise and derived equations that describe the noise. The data was collected using spectrum analyzer. The following animations were created with Python and Postscript. The central visual effect is addition of linear perspective achieved by tethering each segment of data to a single point. 
 
 ![my gif](/assets/grea.gif)
 ![my ge](/assets/cooolie.gif)
