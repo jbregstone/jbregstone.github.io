@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Abstracted Physical Properties 
+title: Whimsical Abstractions
 email: jbregst2@oberlin.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Data transformed into art.
