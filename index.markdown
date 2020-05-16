@@ -6,3 +6,5 @@ layout: home
 ---
 
 Writing wrtigin wrintg
+
+![newImage](/assets/Untiy.gif)
