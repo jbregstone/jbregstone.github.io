@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "YBCO!"
 date:   2020-04-28 12:31:47 -0400
 categories: jekyll update
 ---
@@ -13,7 +13,7 @@ Jekyll requires blog post files to be named according to the following format:
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
-
+![my gif](/assets/Unity.gif)
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
