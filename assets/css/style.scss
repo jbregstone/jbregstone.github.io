@@ -7,9 +7,13 @@ $header-heading-color: #e8ce99;
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Bungee+Shade:400,700');
 
+body {
+  font-family: 'Bungee Shade', cursive;
+}
+
 .main-content {
  h1{
   color: #000000;
-  font-family: 'Bungee Shade', cursive;
+  font: 'Bungee Shade', cursive;
  }
 }
