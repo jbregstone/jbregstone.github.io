@@ -3,3 +3,8 @@
 $header-bg-color-secondary: #bf1194;
 $header-bg-color: #f5ae51;
 @import "{{ site.theme }}";
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
+}
