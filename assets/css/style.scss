@@ -5,16 +5,14 @@ $header-bg-color: #f5ae51;
 $header-heading-color: #6b2a2a;
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Bungee+Shade:400,700');
 @import url('https://fonts.googleapis.com/css?family=Scope+One:400,700');
 
 body {
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Scope One', serif;
 }
 
 .main-content {
  h1{
   color: #000000;
-  font: 'Scope One', serif;
  }
 }
