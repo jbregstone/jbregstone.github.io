@@ -18,3 +18,5 @@ In 1926, John Johnson discovered that resistors have an inherent low level of no
 ![my gif](/assets/grea.gif)
 ![my ge](/assets/cooolie.gif)
 ![my ge](/assets/gererer.gif)
+![my ge](/assets/brandnew.gif)
+
